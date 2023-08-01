@@ -1,0 +1,28 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+.is-primary {
+  background-color: #474739 !important;
+}
+.connect {
+  background-color: #ce8147 !important;
+  color: #ffffff !important;
+}
+.flex {
+  display: grid;
+  background-image: url('/hand-voting-ballot-box-icon-election-vote-concept-simple-line-design-website-logo-app-ui_635702-461.avif');
+  background-size: contain;
+}
